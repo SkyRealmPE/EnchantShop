@@ -8,7 +8,7 @@ Format:
        
        Enchant 
       
-           level
+          level
 
 # SoftDepend
 [VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
