@@ -1,6 +1,18 @@
 # EnchantShop
 EnchantShop
 
+A very awesome plugin that lets you create enchant shops
+
+Format:
+
+   [EnchantShop]
+   
+       cost
+   
+      Enchant
+      
+       level
+
 # SoftDepend
 [VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
 
@@ -16,4 +28,5 @@ EnchantShop
 
 # TODO:
 Finish the rest of enchants
+
 Compatibility for Forms
