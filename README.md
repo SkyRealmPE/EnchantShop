@@ -4,7 +4,7 @@ A very awesome plugin that lets you create enchant shops
 Format:  
    [EnchantShop] 
    
-           cost 
+            cost 
        
        Enchant 
       
