@@ -22,6 +22,8 @@ Format:
 - [x] Bane Of Arthropods
 - [x] Knockback
 - [x] Looting
+- [ ] Respiration
+- [ ] Silk Touch
 
 # TODO:
 Finish the rest of enchants
