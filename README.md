@@ -4,11 +4,11 @@ A very awesome plugin that lets you create enchant shops
 Format:  
    [EnchantShop] 
    
-       cost 
+        cost 
        
-     Enchant 
+      Enchant 
       
-      level
+       level
 
 # SoftDepend
 [VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
@@ -24,5 +24,6 @@ Format:
 - [x] Looting
 
 # TODO:
-Finish the rest of enchants \n
+Finish the rest of enchants
+    
 Compatibility for Forms
