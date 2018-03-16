@@ -6,9 +6,9 @@ Format:
    
        cost 
        
-      Enchant 
+     Enchant 
       
-       level
+      level
 
 # SoftDepend
 [VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
@@ -24,6 +24,5 @@ Format:
 - [x] Looting
 
 # TODO:
-Finish the rest of enchants 
-
+Finish the rest of enchants \n
 Compatibility for Forms
