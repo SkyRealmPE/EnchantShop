@@ -3,8 +3,11 @@ EnchantShop
 A very awesome plugin that lets you create enchant shops 
 Format:  
    [EnchantShop] 
+   
        cost 
+       
       Enchant 
+      
        level
 
 # SoftDepend
@@ -22,4 +25,5 @@ Format:
 
 # TODO:
 Finish the rest of enchants 
+
 Compatibility for Forms
