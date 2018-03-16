@@ -1,0 +1,5 @@
+# -EnchantShop
+EnchantShop
+
+# SoftDepend
+VanillaEnchants
