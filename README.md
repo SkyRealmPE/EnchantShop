@@ -32,3 +32,5 @@ Format:
 Finish the rest of enchants
     
 Compatibility for Forms
+ 
+Compatibility for PiggyCustomEnchants
