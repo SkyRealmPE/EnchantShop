@@ -4,11 +4,14 @@ A very awesome plugin that lets you create enchant shops
 Format:  
    [EnchantShop] 
    
-          cost 
+           cost 
        
        Enchant 
       
-          level
+         level
+
+# Latest Phar
+[Click Here](https://poggit.pmmp.io/ci/KielKing/EnchantShop/EnchantShop)
 
 # SoftDepend
 [VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
