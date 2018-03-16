@@ -2,4 +2,4 @@
 EnchantShop
 
 # SoftDepend
-VanillaEnchants
+[VanillaEnchants](https://github.com/TheAz928/VanillaEnchantments/)
