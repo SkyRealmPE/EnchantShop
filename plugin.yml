@@ -1,0 +1,7 @@
+name: EnchantShop
+main: kielking\EnchantShop\EnchantShop
+version: 0.0.6
+api: 3.0.0-ALPHA11
+load: POSTWORLD
+author: KielKing
+description: EnchantShop
